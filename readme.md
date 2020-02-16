@@ -80,11 +80,10 @@ Después de hacer un reflog he buscado cual era el id al que teníamos que volve
 
 -> ¿Qué comando o comandos usaste en el paso 32? 
 
-He usado el comando git log para buscar el id completo del comit y a continuación: git reset --hard 760cbc44db06be103140cce3c0099dc0e46ec8a0
+He usado el comando git log para buscar el id completo del comit inicial y a continuación: git reset --hard 760cbc44db06be103140cce3c0099dc0e46ec8a0
 
 
 
 -> ¿Qué comando o comandos usaste en el punto 33?
 
-Al igual que el anterior usando el id del ultimo commit realizado: git reset --hard 11b48b1e0abf1df4043fa2bbf8bcfd55f74a1d03
-
+Al igual que el anterior, pero usando el id del último commit realizado: git reset --hard 8a30ef9
